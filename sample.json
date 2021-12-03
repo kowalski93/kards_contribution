@@ -1,0 +1,4002 @@
+[
+    {
+        "faction": "Britain",
+        "import_id": "02",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "fy",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2L",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "eP",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "go",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fz",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "03",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hO",
+        "rarity": "Limited"
+    },
+    {
+        "exile": "Britain",
+        "faction": "Poland",
+        "import_id": "iq",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gp",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2N",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2O",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bi",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0D",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5t",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "hK",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5u",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5v",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2P",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7E",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2h",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7F",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "04",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hL",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "hJ",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bj",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bR",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "jj",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7G",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2Q",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2R",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5w",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gq",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2S",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "05",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7H",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7I",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gL",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5x",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2T",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7J",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5y",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5z",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "fr",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bk",
+        "rarity": "Special"
+    },
+    {
+        "faction": "France",
+        "import_id": "2i",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ij",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fA",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2U",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "06",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bl",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "07",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7K",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5A",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "54",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2V",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7L",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8r",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8f",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "08",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "gM",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7M",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bm",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gr",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7N",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "hX",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "09",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "ir",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "if",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0a",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5B",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bn",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "ic",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iR",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "gQ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0E",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gf",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "55",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0b",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5C",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bS",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ie",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2W",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5D",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hP",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hD",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2X",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "jH",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "56",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5E",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bo",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hQ",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5F",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2Y",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i2",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bp",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "2Z",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fT",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "jg",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gs",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "eR",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gt",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fB",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "gK",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3k",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "30",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "eB",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7O",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0c",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "is",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iS",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "eF",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0d",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2j",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bq",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5G",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0e",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5H",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5I",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0f",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2k",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j0",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "31",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7P",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "hZ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fY",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0g",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5J",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5K",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5L",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "br",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "jm",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8g",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bT",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0F",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0h",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5M",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5N",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5O",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5P",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5Q",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5R",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bs",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0i",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j1",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bt",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "32",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j2",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5S",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "57",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "33",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5T",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "34",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bu",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5U",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0j",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "g5",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2l",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5V",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "eW",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "fV",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "eG",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i1",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "35",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bv",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fC",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "gW",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7Q",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "jv",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "58",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7R",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0k",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "g6",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "36",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0l",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8h",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7S",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bw",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0m",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7T",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7U",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0n",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bx",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5W",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0o",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5X",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0p",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "by",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "jk",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0q",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7V",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7W",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7X",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "jA",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7Y",
+        "rarity": "Special"
+    },
+    {
+        "exile": "Britain",
+        "faction": "Poland",
+        "import_id": "jT",
+        "rarity": "Special"
+    },
+    {
+        "exile": "Britain",
+        "faction": "Poland",
+        "import_id": "jn",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "65",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fb",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gg",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "jd",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bz",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "59",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "7Z",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iT",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "80",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "81",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bA",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bU",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bB",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fE",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "France",
+        "import_id": "gJ",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "it",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gh",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iO",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i3",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3l",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gu",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0r",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0s",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "gS",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "eX",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "g7",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5Y",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ih",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "82",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iQ",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "83",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "js",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "37",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3m",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "eY",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "38",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "gY",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0t",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "84",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2m",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0u",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hM",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "39",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i0",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "5Z",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iP",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3n",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gv",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0G",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ig",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3a",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2n",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "85",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "66",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bC",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "eZ",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gw",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "eH",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0v",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iu",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fc",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0w",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ii",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "h7",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "86",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3b",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "gZ",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "60",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gi",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2o",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "67",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gj",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bV",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5a",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3c",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "g8",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j4",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bD",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3d",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bE",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bF",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iv",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3e",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bG",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0x",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bH",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bI",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3f",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "61",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f0",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gx",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3g",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0y",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "87",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "68",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2p",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bJ",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0z",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0A",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "88",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bK",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "jh",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hN",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "62",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bL",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "63",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8i",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f1",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0B",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bM",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iw",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0C",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j3",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bN",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "jo",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8j",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "89",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f2",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bO",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fG",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fU",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3h",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3i",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f3",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8a",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bP",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8b",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "bQ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "h3",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8c",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3j",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8d",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "64",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fZ",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8e",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3v",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6l",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "ce",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "et",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "ew",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0N",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "eu",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ex",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "ev",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8v",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "eu",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9y",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cp",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i4",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cq",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i8",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cr",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cs",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8B",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3L",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0Y",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "h4",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "ct",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8C",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gk",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iU",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8D",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "ft",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cu",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i5",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8E",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3M",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6w",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iV",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "01",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3N",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6x",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3O",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dl",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8F",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iD",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "jt",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "ju",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cv",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9z",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "0Z",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5d",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cw",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2H",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "10",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "11",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hR",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3P",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "jB",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cx",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6y",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7r",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j5",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6z",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iZ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "fu",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "12",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3Q",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "g9",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3R",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "13",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j6",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iW",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6A",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i9",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2v",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5e",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "jx",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iX",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8G",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gy",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6B",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dm",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "14",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cy",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8H",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gl",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cz",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5f",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6C",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3S",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8I",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6D",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "ga",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8J",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4H",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iE",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j7",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5g",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5h",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8K",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "15",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3T",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6E",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8L",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "gb",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8M",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "iY",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cA",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fJ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2w",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "hY",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fK",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "16",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3U",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9A",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cB",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j8",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ik",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fO",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8N",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "gc",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "17",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iz",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hS",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "gT",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "h8",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7s",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8O",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "fW",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6F",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8P",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8Q",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "18",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "gH",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "jp",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8R",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6G",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6H",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gm",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cC",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8S",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cD",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iA",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fP",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8T",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8U",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8V",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8W",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "19",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f4",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3V",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8X",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cE",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8Y",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "8Z",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cF",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cG",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "90",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cH",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6I",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6J",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3W",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "il",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6K",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6L",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1a",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3X",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1b",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "91",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gz",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cI",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cJ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "92",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7t",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1c",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hW",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hT",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1d",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1e",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "ha",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4M",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hU",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1f",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "93",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cK",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "h9",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cL",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cM",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cN",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2x",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cO",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cP",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fL",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6M",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "id",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2y",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1g",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "je",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1h",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1i",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3Y",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1j",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1k",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cQ",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cR",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "94",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1l",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gA",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1m",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6N",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1n",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2z",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6O",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "hH",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "3Z",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1U",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cS",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cT",
+        "rarity": "Standard"
+    },
+    {
+        "exile": "Britain",
+        "faction": "Poland",
+        "import_id": "iF",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "40",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5i",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "fX",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5j",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "41",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "42",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2A",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2B",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2C",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "43",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "gU",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f5",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6P",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "ji",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1o",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1p",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "44",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1q",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cU",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1r",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6Q",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "jJ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "ia",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "45",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "46",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "47",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6R",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "France",
+        "import_id": "2D",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1s",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "48",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1t",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1u",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "2E",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "jf",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gB",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "95",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "96",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5k",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "97",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "98",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6S",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6T",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "49",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fl",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4a",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4b",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4c",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4d",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i6",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6U",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "99",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fm",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "im",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6V",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "in",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6W",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6X",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6Y",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "6Z",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7x",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "70",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "71",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9a",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9b",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9c",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5l",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1v",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1w",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1x",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9d",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "hG",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iG",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9e",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9f",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dt",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5s",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cV",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cW",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cX",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cY",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "cZ",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d1",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1V",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hV",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d2",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d3",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d4",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d5",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d6",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d7",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d8",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5m",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1y",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4e",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "d9",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1z",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "jl",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4f",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "f7",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4g",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "i7",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4h",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "jL",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9g",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fo",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "72",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "73",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1A",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "da",
+        "rarity": "Standard"
+    },
+    {
+        "exile": "Poland",
+        "faction": "France",
+        "import_id": "2F",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "74",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "io",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4i",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1W",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1B",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hE",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5n",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "75",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "ip",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "76",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "db",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1C",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dn",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dc",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1D",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dd",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "de",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "df",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4j",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4k",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fQ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4l",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4m",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4n",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4o",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fR",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4p",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4q",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4r",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "gV",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4I",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4s",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4t",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4u",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4v",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4w",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4x",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4y",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "j9",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "gn",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "77",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9h",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "gd",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9i",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "jc",
+        "rarity": "Standard"
+    },
+    {
+        "exile": "Britain",
+        "faction": "Poland",
+        "import_id": "jq",
+        "rarity": "Standard"
+    },
+    {
+        "exile": "USA",
+        "faction": "Poland",
+        "import_id": "jr",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "France",
+        "import_id": "gI",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iB",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iH",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iC",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9j",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "ja",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dg",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1E",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gC",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4z",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "USA",
+        "import_id": "jy",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1F",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gD",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1G",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1H",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "78",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "jb",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dh",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4A",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "eL",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5o",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "79",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1J",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7a",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7b",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gE",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gF",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1K",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Italy",
+        "import_id": "5p",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7c",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1L",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "hF",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "gP",
+        "rarity": "Elite"
+    },
+    {
+        "exile": "Britain",
+        "faction": "Poland",
+        "import_id": "iI",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1M",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1N",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4B",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4C",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "fS",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4D",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9k",
+        "rarity": "Standard"
+    },
+    {
+        "exile": "Soviet",
+        "faction": "Poland",
+        "import_id": "iJ",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9l",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9m",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9n",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1O",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1P",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "USA",
+        "import_id": "di",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7d",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dj",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1Q",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4E",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4F",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iK",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "g0",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7e",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7f",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7g",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7h",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7i",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7j",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7k",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "g1",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7l",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7m",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7n",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7o",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "g2",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7p",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1R",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "ge",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9p",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9q",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9r",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9s",
+        "rarity": "Special"
+    },
+    {
+        "exile": "Soviet",
+        "faction": "Poland",
+        "import_id": "iL",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "h5",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9t",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9u",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9v",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "fN",
+        "rarity": "Special"
+    },
+    {
+        "faction": "USA",
+        "import_id": "dk",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "g3",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1S",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "fq",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Britain",
+        "import_id": "1T",
+        "rarity": "Standard"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4J",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Germany",
+        "import_id": "4G",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9w",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "fx",
+        "rarity": "Elite"
+    },
+    {
+        "faction": "Soviet",
+        "import_id": "9x",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "hI",
+        "rarity": "Limited"
+    },
+    {
+        "faction": "Poland",
+        "import_id": "iM",
+        "rarity": "Special"
+    },
+    {
+        "faction": "Japan",
+        "import_id": "7q",
+        "rarity": "Standard"
+    }
+]
